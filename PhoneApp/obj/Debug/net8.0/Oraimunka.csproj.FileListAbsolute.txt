@@ -1,0 +1,14 @@
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\bin\Debug\net8.0\Oraimunka.exe
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\bin\Debug\net8.0\Oraimunka.deps.json
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\bin\Debug\net8.0\Oraimunka.runtimeconfig.json
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\bin\Debug\net8.0\Oraimunka.dll
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\bin\Debug\net8.0\Oraimunka.pdb
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.AssemblyInfoInputs.cache
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.AssemblyInfo.cs
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.csproj.CoreCompileInputs.cache
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.dll
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\refint\Oraimunka.dll
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.pdb
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\Oraimunka.genruntimeconfig.cache
+C:\Users\Lukac\Desktop\Oraimunka\Oraimunka\obj\Debug\net8.0\ref\Oraimunka.dll
