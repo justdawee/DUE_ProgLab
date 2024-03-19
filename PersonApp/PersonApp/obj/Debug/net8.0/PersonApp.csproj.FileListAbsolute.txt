@@ -1,0 +1,14 @@
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.exe
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.deps.json
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.runtimeconfig.json
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.dll
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\bin\Debug\net8.0\PersonApp.pdb
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfoInputs.cache
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.AssemblyInfo.cs
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.csproj.CoreCompileInputs.cache
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.dll
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\refint\PersonApp.dll
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.pdb
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\PersonApp.genruntimeconfig.cache
+C:\Users\Lukac\RiderProjects\PersonApp\PersonApp\obj\Debug\net8.0\ref\PersonApp.dll
