@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Random rnd = new Random();
+        /*Random rnd = new Random();
         Owner maxine = new Owner
         {
             Id = -001,
@@ -99,5 +99,6 @@ class Program
                 cat.Gender, getHealth.isHealthyWeight(rnd.NextDouble() * 100, rnd.NextDouble() * 100),
                 cat.getNumberOfLegs(), cat.getFeedPeriod()));
         }
+        */
     }
 }
