@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lukac\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj": {}
+    "C:\\Users\\JustDawee\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lukac\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj": {
+    "C:\\Users\\JustDawee\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lukac\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj",
+        "projectUniqueName": "C:\\Users\\JustDawee\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj",
         "projectName": "PhoneApp",
-        "projectPath": "C:\\Users\\Lukac\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj",
-        "packagesPath": "C:\\Users\\Lukac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lukac\\RiderProjects\\DUE_ProgLab\\PhoneApp\\obj\\",
+        "projectPath": "C:\\Users\\JustDawee\\RiderProjects\\DUE_ProgLab\\PhoneApp\\PhoneApp.csproj",
+        "packagesPath": "C:\\Users\\JustDawee\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JustDawee\\RiderProjects\\DUE_ProgLab\\PhoneApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lukac\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JustDawee\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net8.0": {
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
